@@ -1,5 +1,3 @@
-
-
 # Python Design Pattern - Prototype
 
 # test
